@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{CF4E4A1E-F6EE-42FF-AA79-D03D365208D1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OdeTOFood/Pages/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="OdeTOFood/Startup.cs" Line="1" Column="1" />
+      <File FileName="OdeTOFood/Pages/Index.cshtml" Line="12" Column="1" />
+      <File FileName="OdeTOFood/Pages/Shared/_Layout.cshtml" Line="27" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OdeTOFood" expanded="True">
+            <Node name="OdeTOFood" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OdeTOFood PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

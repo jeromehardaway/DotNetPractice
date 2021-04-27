@@ -1,0 +1,4 @@
+/Users/jeromehardaway/projects/HelloWorld/bin/Release/net5.0/publish/HelloWorld.dll
+/Users/jeromehardaway/projects/HelloWorld/bin/Release/net5.0/publish/HelloWorld.deps.json
+/Users/jeromehardaway/projects/HelloWorld/bin/Release/net5.0/publish/HelloWorld.runtimeconfig.json
+/Users/jeromehardaway/projects/HelloWorld/bin/Release/net5.0/publish/HelloWorld.pdb

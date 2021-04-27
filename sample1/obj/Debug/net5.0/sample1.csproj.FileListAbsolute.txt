@@ -1,0 +1,15 @@
+/Users/jeromehardaway/projects/sample1/bin/Debug/net5.0/sample1.deps.json
+/Users/jeromehardaway/projects/sample1/bin/Debug/net5.0/sample1.runtimeconfig.json
+/Users/jeromehardaway/projects/sample1/bin/Debug/net5.0/sample1.runtimeconfig.dev.json
+/Users/jeromehardaway/projects/sample1/bin/Debug/net5.0/sample1.dll
+/Users/jeromehardaway/projects/sample1/bin/Debug/net5.0/ref/sample1.dll
+/Users/jeromehardaway/projects/sample1/bin/Debug/net5.0/sample1.pdb
+/Users/jeromehardaway/projects/sample1/obj/Debug/net5.0/sample1.csprojAssemblyReference.cache
+/Users/jeromehardaway/projects/sample1/obj/Debug/net5.0/sample1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeromehardaway/projects/sample1/obj/Debug/net5.0/sample1.AssemblyInfoInputs.cache
+/Users/jeromehardaway/projects/sample1/obj/Debug/net5.0/sample1.AssemblyInfo.cs
+/Users/jeromehardaway/projects/sample1/obj/Debug/net5.0/sample1.csproj.CoreCompileInputs.cache
+/Users/jeromehardaway/projects/sample1/obj/Debug/net5.0/sample1.dll
+/Users/jeromehardaway/projects/sample1/obj/Debug/net5.0/ref/sample1.dll
+/Users/jeromehardaway/projects/sample1/obj/Debug/net5.0/sample1.pdb
+/Users/jeromehardaway/projects/sample1/obj/Debug/net5.0/sample1.genruntimeconfig.cache
